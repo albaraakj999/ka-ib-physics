@@ -10,11 +10,10 @@ schoolname: "KAUST Academy"
 schoolurl: https://academy.kaust.edu.sa/
 twitter_username: username 
 
-address: 
-4700 King Abdullah University of Science and Technology
-Thuwal 23955-6900
-Kingdom of Saudi Arabia
-
+address: |
+    School of Witchcraft and Wizardry
+    Hogwarts
+    Scotland
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
 
